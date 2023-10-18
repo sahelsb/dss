@@ -1,2 +1,2 @@
 # snowflake
-DSSS Exercise
+DSSS Ex
